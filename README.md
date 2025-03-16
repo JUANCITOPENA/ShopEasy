@@ -4,6 +4,10 @@
 
 ShopEasy es una aplicación web de comercio electrónico moderna y responsiva que simula una experiencia de compra en línea. Construida con HTML, CSS y JavaScript, este proyecto muestra un flujo completo de compra, desde la navegación por productos hasta el pago con generación de facturas.
 
+## **Pruebalo aqui**
+
+https://shop-easy-henna.vercel.app/
+
 ## **Características**
 
 - 🔍 **Búsqueda de Productos**: Filtra productos por nombre o categoría
