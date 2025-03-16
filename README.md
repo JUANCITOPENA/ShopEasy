@@ -22,6 +22,25 @@ ShopEasy es una aplicación web de comercio electrónico moderna y responsiva qu
 - **jsPDF**: Biblioteca para generación de facturas en PDF
 - **FakeStore API**: API externa para datos de productos
 
+API Utilizada
+Este proyecto utiliza la FakeStore API para obtener datos de productos:
+
+🔌 Endpoint principal: https://fakestoreapi.com/products
+📦 Tipo de datos: Productos con información de título, precio, descripción, categoría e imagen
+🔄 Método de integración: Fetch API con async/await para solicitudes asíncronas
+🛠️ Funcionalidades: Obtención de lista completa de productos sin necesidad de autenticación
+
+La FakeStore API es un servicio gratuito que proporciona datos simulados de e-commerce para desarrollo y pruebas. Ofrece múltiples endpoints para diferentes recursos como productos, carritos, usuarios y categorías.
+Créditos
+
+👨‍💻 Desarrollador del proyecto: [Tu Nombre]
+🌐 FakeStore API: Desarrollada por Mohammed Kemal
+📚 Bootstrap: Desarrollado por el Equipo de Bootstrap
+📄 jsPDF: Desarrollado por Parallax
+🔍 Font Awesome: Desarrollado por Fonticons, Inc.
+
+Un agradecimiento especial a todos los creadores de estas herramientas de código abierto que hacen posible el desarrollo web moderno.
+
 ## **Estructura del Proyecto**
 
 - `index.html`: Documento HTML principal con estructura de la página
