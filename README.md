@@ -83,7 +83,7 @@ Al trabajar con este proyecto, ganarás experiencia en:
 
 ## **Créditos**
 
-- 👨‍💻 **Desarrollador del proyecto**: [Tu Nombre]
+- 👨‍💻 **Desarrollador del proyecto**: [JUANCITO PEÑA]
 - 🌐 **FakeStore API**: Desarrollada por [Mohammed Kemal](https://github.com/keikaavousi)
 - 📚 **Bootstrap**: Desarrollado por el [Equipo de Bootstrap](https://getbootstrap.com/docs/5.3/about/team/)
 - 📄 **jsPDF**: Desarrollado por [Parallax](https://github.com/parallax/jsPDF)
